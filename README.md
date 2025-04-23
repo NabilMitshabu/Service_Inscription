@@ -4,7 +4,7 @@ Ce projet est une mini-application en PHP qui permet :
 
 - L'inscription d'étudiants via un formulaire HTML
 - L'enregistrement des données dans une base SQLite
-- L'accès à une API REST (GET) qui retourne uniquement le nom, postnom et prénom de chaque étudiant
+- L'accès à une API REST (GET) qui retourne uniquement le nom, postnom et prénom de chaque étudiant `http://localhost:8086/liste_etudiants.php`
 
 ---
 
@@ -14,13 +14,13 @@ Ce projet est une mini-application en PHP qui permet :
 - `ajouter_etudiant.php` – Enregistre les infos dans `etudiants.db`
 - `liste_etudiants.php` – Affiche en JSON la liste des noms/prénoms des étudiants
 - `etudiants.db` – Base de données SQLite 
-- `README.md` – Ce fichier
+
 
 ---
 
 ## Utilisation
 
-1. Ouvre `formulaire.html` dans un navigateur
+1. Ouvre `formulaire` dans un navigateur
 2. Remplis le formulaire et envoie-le
 3. Les données sont enregistrées dans `etudiants.db`
 4. Pour consulter les étudiants en JSON :
