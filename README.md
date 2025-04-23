@@ -24,7 +24,7 @@ Ce projet est une mini-application en PHP qui permet :
 2. Remplis le formulaire et envoie-le
 3. Les données sont enregistrées dans `etudiants.db`
 4. Pour consulter les étudiants en JSON :
-   - Accède à : `http://localhost/ton_projet/etudiants_sqlite.php`
+   - Accède à : `http://localhost:8086/liste_etudiants.php`
 
 ---
 
