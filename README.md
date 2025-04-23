@@ -33,13 +33,13 @@ Ce projet est une mini-application en PHP qui permet :
 ```json
 [
   {
-    "nom": "Lumumba",
-    "postnom": "Onore",
-    "prenom": "Patrice"
+    "nom": "MUTOMBO",
+    "postnom": "MITSHABU",
+    "prenom": "Nabil"
   },
   {
-    "nom": "Kabila",
-    "postnom": "Mulumba",
-    "prenom": "Laurent"
+    "nom": "MUTAMBA",
+    "postnom": "KITENGE",
+    "prenom": "Neville"
   }
 ]
