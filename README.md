@@ -4,7 +4,7 @@ Ce projet est une mini-application en PHP qui permet :
 
 - L'inscription d'étudiants via un formulaire 
 - L'enregistrement des données dans une base SQLite
-- L'accès à une API REST (GET) qui retourne uniquement le nom, postnom et prénom de chaque étudiant `http://localhost:8086/liste_etudiants.php`
+- L'accès à une API REST en ligne déployé avec Render qui retourne uniquement le nom, postnom et prénom de chaque étudiant `https://service-inscription.onrender.com/liste_etudiants.php`
 
 ---
 
@@ -24,7 +24,7 @@ Ce projet est une mini-application en PHP qui permet :
 2. Remplis le formulaire et envoie-le
 3. Les données sont enregistrées dans `etudiants.db`
 4. Pour consulter les étudiants en JSON :
-   - Accède à : `http://localhost:8086/liste_etudiants.php`
+   - Accède à un service en ligne: `https://service-inscription.onrender.com/liste_etudiants.php `
 
 ---
 
